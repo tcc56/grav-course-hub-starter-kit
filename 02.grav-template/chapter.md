@@ -6,6 +6,6 @@ taxonomy:
 
 ### Chapter 3
 
-# Advanced
+# GRAV Template
 
 Download and try out the GRAV course companion template

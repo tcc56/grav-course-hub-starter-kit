@@ -6,6 +6,6 @@ taxonomy:
 
 ### Chapter 3
 
-# Advanced
+# Open Workflow
 
 Discover the many benefits of an open workflow
