@@ -1,5 +1,5 @@
 ---
-title: Installation
+title: Why a Modern Flat-file CMS?
 taxonomy:
     category: docs
 ---

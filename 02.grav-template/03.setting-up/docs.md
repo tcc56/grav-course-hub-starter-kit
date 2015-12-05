@@ -1,5 +1,5 @@
 ---
-title: Advanced Topic 2
+title: Setting Up
 taxonomy:
     category: docs
 ---

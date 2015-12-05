@@ -1,5 +1,5 @@
 ---
-title: Requirements
+title: Experience Design Goals
 taxonomy:
     category: docs
 ---

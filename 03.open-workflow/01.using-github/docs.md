@@ -1,5 +1,5 @@
 ---
-title: Advanced Topic 1
+title: Using GitHub
 taxonomy:
     category: docs
 ---

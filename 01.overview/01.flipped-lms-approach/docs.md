@@ -1,5 +1,5 @@
 ---
-title: Overview
+title: Flipped-LMS Approach
 taxonomy:
     category: docs
 ---
