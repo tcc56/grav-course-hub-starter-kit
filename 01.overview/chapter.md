@@ -8,4 +8,5 @@ taxonomy:
 
 # Overview
 
-Overview of the GRAV course companion
+Overview of the GRAV course companion  
+with a flipped-LMS approach
