@@ -8,5 +8,4 @@ taxonomy:
 
 # Overview
 
-Overview of the GRAV course companion  
-with a flipped-LMS approach
+An overview of using the Modern Flat-file CMS Grav for a flipped-LMS approach
