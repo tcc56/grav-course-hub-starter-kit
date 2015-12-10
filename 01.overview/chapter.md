@@ -8,4 +8,4 @@ taxonomy:
 
 # Overview
 
-Using [GRAV](http://getgrav.org) CMS as a course companion, either as a standalone environment or an alternative front-end to the institutional LMS.
+Using [Grav](http://getgrav.org) CMS as a course companion, either as a standalone environment or an alternative front-end to the institutional LMS.
