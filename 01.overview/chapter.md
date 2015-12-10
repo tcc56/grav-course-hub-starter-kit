@@ -8,4 +8,4 @@ taxonomy:
 
 # Overview
 
-Using the CMS [GRAV](http://getgrav.org) for a flipped-LMS approach, where an open platform in the control of instructors and students serves as an alternative front-end to the institutional LMS.
+Using the [GRAV](http://getgrav.org) CMS as a course companion, either standalone or for a flipped-LMS approach.
