@@ -1,11 +1,11 @@
 ---
-title: GRAV Template
+title: GRAV Templates
 taxonomy:
     category: docs
 ---
 
 ### Chapter 2
 
-# GRAV Template
+# GRAV Templates
 
-Download and try out the GRAV course companion template
+Download and try out one or more of the GRAV course companion templates
